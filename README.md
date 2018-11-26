@@ -18,6 +18,8 @@ We have provided you an initial Application Skeleton generated with `create-reac
 
 Your job is to implement the `render` functions of each component.  An effective strategy could be to implement each component individually testing their output on the screen with hard-coded prop data before trying to integrate the entire app.
 
+**We will be doing a review of this material first thing on Tuesday (Nov. 26th)**
+
 ### What's Already Here
 
 We have already implemented some pieces of this project:
